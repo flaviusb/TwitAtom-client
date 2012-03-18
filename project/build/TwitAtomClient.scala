@@ -1,3 +1,5 @@
+import sbt._
+
 trait Defaults {
   def androidPlatformName = "android-10"
 }
