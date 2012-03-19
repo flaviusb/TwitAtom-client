@@ -27,4 +27,7 @@ class TwitAtom extends Activity {
       setContentView(R.layout.main)
     }
   }
+  def select_service_document(v: View): Unit = {
+    var textbox = findViewById()
+  }
 }
